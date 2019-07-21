@@ -1,4 +1,4 @@
-# y2s19 git lab
+# y2s19 git lab1
 ## Cloning a Repo
 - First you'll want to fork this lab, which will make a copy of it for yourself. When you push code, you will make changes to the github repository, so you should make changes on your own code.
 ![alt text](fork.png)
